@@ -1,0 +1,146 @@
+[
+    {
+        "logo": 0,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\nsvg\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n29.7 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_0.png"
+    },
+    {
+        "logo": 1,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\njpg\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n136.8 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_1.png"
+    },
+    {
+        "logo": 2,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n129.42 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: FAILED\n\nIntrinsic dimensions:\n475x\n410\n\nRendered dimensions:\n259x\n260\n\nReason:\nThe logo appears stretched or\ncompressed during rendering.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_2.png"
+    },
+    {
+        "logo": 3,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: FAILED\n\nDetected format:\nunknown\n\nAllowed formats:\nPNG, JPG, JPEG, SVG, WEBP\n\nReason:\nLogo format is not compliant with\nDBIM requirements.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n3.81 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: FAILED\n\nIntrinsic dimensions:\n256x\n65\n\nRendered dimensions:\n100x\n40\n\nReason:\nThe logo appears stretched or\ncompressed during rendering.\n\n\nCONTRAST CHECK: FAILED\n\nReason:\nThe logo does not maintain sufficient\ncontrast against the background.\n",
+        "comparison": "comparison/logo_3.png"
+    },
+    {
+        "logo": 4,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\nsvg\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n22.72 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_4.png"
+    },
+    {
+        "logo": 5,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n19.28 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_5.png"
+    },
+    {
+        "logo": 6,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n2.96 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_6.png"
+    },
+    {
+        "logo": 7,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n2.29 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_7.png"
+    },
+    {
+        "logo": 8,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n3.01 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_8.png"
+    },
+    {
+        "logo": 9,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n2.71 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_9.png"
+    },
+    {
+        "logo": 10,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n0.62 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: FAILED\n\nReason:\nThe logo does not maintain sufficient\ncontrast against the background.\n",
+        "comparison": "comparison/logo_10.png"
+    },
+    {
+        "logo": 11,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n0.62 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: FAILED\n\nReason:\nThe logo does not maintain sufficient\ncontrast against the background.\n",
+        "comparison": "comparison/logo_11.png"
+    },
+    {
+        "logo": 12,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n0.62 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: FAILED\n\nReason:\nThe logo does not maintain sufficient\ncontrast against the background.\n",
+        "comparison": "comparison/logo_12.png"
+    },
+    {
+        "logo": 13,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n0.62 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: FAILED\n\nReason:\nThe logo does not maintain sufficient\ncontrast against the background.\n",
+        "comparison": "comparison/logo_13.png"
+    },
+    {
+        "logo": 14,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n150.44 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_14.png"
+    },
+    {
+        "logo": 15,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n80.92 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_15.png"
+    },
+    {
+        "logo": 16,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n47.72 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_16.png"
+    },
+    {
+        "logo": 17,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n34.38 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_17.png"
+    },
+    {
+        "logo": 18,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n67.08 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_18.png"
+    },
+    {
+        "logo": 19,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n152.81 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_19.png"
+    },
+    {
+        "logo": 20,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n120.69 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_20.png"
+    },
+    {
+        "logo": 21,
+        "status": "NON-COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: FAILED\n\nDetected size:\n125.28 KB\n\nMaximum allowed:\n100 KB\n\nReason:\nLogo file size exceeds DBIM limits.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_21.png"
+    },
+    {
+        "logo": 22,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n18.05 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_22.png"
+    },
+    {
+        "logo": 23,
+        "status": "COMPLIANT",
+        "reason": "\nFORMAT CHECK: PASSED\n\nDetected format:\npng\n\nReason:\nLogo format follows DBIM rules.\n\n\nFILE SIZE CHECK: PASSED\n\nDetected size:\n8.02 KB\n\nReason:\nLogo file size is compliant.\n\n\nPROPORTION CHECK: PASSED\n\nReason:\nLogo proportions are preserved.\n\n\nCONTRAST CHECK: PASSED\n\nReason:\nThe logo maintains sufficient\nvisual contrast.\n",
+        "comparison": "comparison/logo_23.png"
+    }
+]
